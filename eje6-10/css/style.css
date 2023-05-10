@@ -1,0 +1,49 @@
+html {
+    background-color: #dbdbdb;
+}
+body {
+    font-family: "Lucida Sans Unicode", sans-serif;
+    font-size: 15px;
+    background-color: #ffffff;
+
+    text-align: justify;
+    margin: 10px auto;
+    width: 900px;
+}
+h1 {
+    text-align: center;
+    color: #72af10;
+    letter-spacing: 0.1em;
+    background-image: url(../images/panoramica.jpg);
+    background-position: top center;
+    background-repeat: no-repeat;
+    padding-top: 150px;
+}
+h1 span {
+    color: #eb9b40;
+}
+h2 {
+    color: #6cac05;
+}
+#menu {
+    float: left;
+    width: 100px;
+    margin: 25px;
+    padding: 0;
+    list-style-type: none;
+}
+#menu li {
+    background-color: #d9ff78;
+    margin-bottom: 5px;
+    font-size: 90%;
+    text-align: center;
+    line-height: 30px;
+}
+#menu a {
+    display: block;
+    text-decoration: none;
+    color: #000000;
+}
+#menu li.activa{
+    background-color: #ebcca8;
+}

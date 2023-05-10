@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(182, 248, 239);
+    color: #c57e44;
+    font: normal 125%/1.6 "Open Sans","Helvetica Neue Light","Helvetica Neue","Helvetica","Arial",sans-serif;
+    -webkit-text-size-adjust: 125%;
+    -webkit-font-feature-settings: "kern" 1;
+    -moz-font-feature-settings: "kern" 1;
+    -o-font-feature-settings: "kern" 1;
+    font-feature-settings: "kern" 1;
+    font-kerning: normal;
+}
+
+h1, h2, h3 {
+    font-family: "Courgette", cursive;
+}
+
+h2 {
+    display: block;
+    font-weight: bold;
+    font-style: italic;
+}
+
+h3 {
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    font-style: italic;
+}
